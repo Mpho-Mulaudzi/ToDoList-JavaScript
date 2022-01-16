@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(249, 253, 253);
+    text-decoration: snow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh ;
+}
+button {
+    background-color: rgb(9, 211, 60);
+    text-decoration: snow;
+    font-size: 12px;
+    border-radius:30%;
+}
+.center {
+    min-width: 50px;
+    height: 50px;
+    background: rgb(47, 202, 19);
+    text-decoration: snow;
+    border-radius: 30%;
+    transition: 0.2s ease-in-out all;
+  }
